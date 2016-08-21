@@ -1,0 +1,68 @@
+.clearfix {
+  overflow: auto;
+}
+body {
+  font-family: sans-serif;
+  background-color:#f6f6f6;
+}
+.aboutMe   {
+  color: black;
+}
+h4 {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: -17px;
+
+}
+h1 {
+  font-family:sans-serif;;
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 37px;
+}
+
+/*hr {*/
+
+/*}*/
+h6 {
+  font-family: sans-serif;;
+  letter-spacing: 2px;
+  margin-bottom: 30px;
+}
+div {
+  margin-left: 14%;
+  margin-right: 14%;
+}
+.experience{
+  line-height:26px;
+
+}
+p {
+  margin-top:3px;
+  line-height:26px;
+}
+.profolioTitle {
+  margin-top:40px;
+  font-size:20px;
+
+}
+img {
+  border: 1px solid black;
+  padding: 6px;
+  width: 560px;
+  /*float: right;*/
+  margin-top: 17px;
+  margin-bottom: 20px;
+  float: center;
+}
+.container{
+  border-top: 5px solid black;
+  border-bottom:5px solid black;
+
+
+}
+.secondpart {
+  border-top: 2px solid black;
+
+
+}

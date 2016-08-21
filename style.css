@@ -1,0 +1,68 @@
+.clearfix {
+  overflow: auto;
+}
+body {
+  font-family: sans-serif;
+  background-color:#f6f6f6;
+}
+.portfolio  {
+  color: black;
+}
+h4 {
+  text-align: center;
+
+
+}
+
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 36px;
+}
+
+hr{
+  width:580px;
+  float:left;
+}
+
+h3 {
+  font-size: 20px;
+  text-align: left;
+  letter-spacing: 2px;
+}
+
+p {
+  font-family:serif;
+  font-size: 22px;
+  width: 80%;
+}
+
+div {
+  border-top: 1px solid black;
+  /*border-bottom: 1px solid black;*/
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+img {
+  border: 1px solid black;
+  padding: 4px;
+  width: 150px;
+  float: right;
+  margin-bottom: 10px;
+}
+nav {
+  text-align: center;
+  margin-top: 30px;
+
+}
+.navBottom a {
+  color:black;
+  font-family: sans-serif;
+}
+.container{
+  border-top: 5px solid black;
+  border-bottom:5px solid black;
+
+
+}
